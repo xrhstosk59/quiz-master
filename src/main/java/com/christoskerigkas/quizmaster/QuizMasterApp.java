@@ -13,7 +13,7 @@ public class QuizMasterApp extends Application {
         FXMLLoader loader = new FXMLLoader(getClass().getResource("Welcome.fxml"));
         Parent root = loader.load();
 
-        stage.setTitle("QuizMaster");
+        stage.setTitle("quiz-master");
         stage.setMinWidth(750);
         stage.setMinHeight(400);
         stage.setScene(new Scene(root, 750, 400));

@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.christoskerigkas</groupId>
-    <artifactId>quizmaster-javafx</artifactId>
+    <artifactId>quiz-master</artifactId>
     <version>1.0.0</version>
-    <name>QuizMaster JavaFX</name>
+    <name>quiz-master</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

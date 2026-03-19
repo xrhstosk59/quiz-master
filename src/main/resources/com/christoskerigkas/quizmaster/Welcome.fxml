@@ -12,7 +12,7 @@
    <top>
       <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="100.0" style="-fx-background-color: #000000;" BorderPane.alignment="CENTER">
          <children>
-            <Text fill="#c32727" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to &quot;QuizMaster&quot;" textAlignment="CENTER">
+            <Text fill="#c32727" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to &quot;quiz-master&quot;" textAlignment="CENTER">
                <font>
                   <Font size="40.0" />
                </font>

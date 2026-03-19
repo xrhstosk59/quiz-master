@@ -1,4 +1,4 @@
-# QuizMaster JavaFX
+# quiz-master
 
 A small JavaFX quiz application migrated from a legacy NetBeans/Ant setup to a portable Maven build.
 
