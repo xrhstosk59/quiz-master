@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
         <javafx.version>24.0.1</javafx.version>
-        <main.class>christoskerigkasjavafx210047.ChristosKerigkasJavaFX210047</main.class>
+        <main.class>com.christoskerigkas.quizmaster.QuizMasterApp</main.class>
     </properties>
 
     <dependencies>

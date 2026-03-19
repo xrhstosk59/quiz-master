@@ -1,4 +1,4 @@
-package christoskerigkasjavafx210047;
+package com.christoskerigkas.quizmaster;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -6,7 +6,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-public class ChristosKerigkasJavaFX210047 extends Application {
+public class QuizMasterApp extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {

@@ -1,4 +1,4 @@
-package christoskerigkasjavafx210047;
+package com.christoskerigkas.quizmaster;
 
 import java.net.URL;
 import java.util.Objects;
@@ -22,8 +22,8 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 
 public class MainController implements Initializable {
-    private static final String CORRECT_SOUND = "/christoskerigkasjavafx210047/Correct.mp3";
-    private static final String WRONG_SOUND = "/christoskerigkasjavafx210047/Wrong.mp3";
+    private static final String CORRECT_SOUND = "/com/christoskerigkas/quizmaster/Correct.mp3";
+    private static final String WRONG_SOUND = "/com/christoskerigkas/quizmaster/Wrong.mp3";
 
     private static final String[] QUESTIONS = {
         "Ερώτηση 1: Ποια είναι η πρωτεύουσα της Ελλάδας;",

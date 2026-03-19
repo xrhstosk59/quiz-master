@@ -1,4 +1,4 @@
-package christoskerigkasjavafx210047;
+package com.christoskerigkas.quizmaster;
 
 import java.net.URL;
 import java.util.ResourceBundle;

@@ -1,4 +1,4 @@
-package christoskerigkasjavafx210047;
+package com.christoskerigkas.quizmaster;
 
 import java.io.IOException;
 import java.net.URL;
