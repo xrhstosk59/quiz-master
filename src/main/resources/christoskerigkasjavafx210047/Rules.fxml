@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="348.0" prefWidth="463.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="christoskerigkasjavafx210047.RulesController">
+   <bottom>
+      <Button fx:id="exitButton2" mnemonicParsing="false" onAction="#handleExitButton2" text="Exit" textAlignment="CENTER" textFill="#c32727" BorderPane.alignment="CENTER">
+         <font>
+            <Font size="15.0" />
+         </font>
+         <BorderPane.margin>
+            <Insets bottom="10.0" top="-30.0" />
+         </BorderPane.margin>
+      </Button>
+   </bottom>
+   <top>
+      <Text fill="#6bffba" strokeType="OUTSIDE" strokeWidth="0.0" text="1. Οι συμμετέχοντες πρέπει να απαντήσουν σε όλες &#10;τις ερωτήσεις του κουίζ.&#10;2. Κάθε ερώτηση θα έχει επιλογές πολλαπλών επιλογών και οι &#10;συμμετέχοντες θα πρέπει να επιλέξουν τη σωστή απάντηση.&#10;3. Επιτρέπεται μόνο μία απάντηση για κάθε ερώτηση.&#10;4. Οι συμμετέχοντες θα λάβουν πόντους για &#10;κάθε σωστή απάντηση.&#10;5. Οι συμμετέχοντες πρέπει να υποβάλουν &#10;τις απαντήσεις τους εντός του &#10;καθορισμένου χρόνου.&#10;6. Μόλις υποβληθούν, οι απαντήσεις δεν μπορούν &#10;να αλλάξουν.&#10;7. Οι συμμετέχοντες θα πρέπει να απέχουν από τη χρήση &#10;εξωτερικών πόρων ή βοήθειας κατά &#10;τη διάρκεια του κουίζ." textAlignment="CENTER" wrappingWidth="465.158203125" BorderPane.alignment="CENTER">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+      </Text>
+   </top>
+</BorderPane>
