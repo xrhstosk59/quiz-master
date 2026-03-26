@@ -1,6 +1,6 @@
 # quiz-master
 
-A small JavaFX quiz application migrated from a legacy NetBeans/Ant setup to a portable Maven build.
+A small JavaFX quiz application used as a learning project and migrated from a legacy NetBeans/Ant setup to a portable Maven build.
 
 ## Requirements
 
@@ -21,5 +21,6 @@ A small JavaFX quiz application migrated from a legacy NetBeans/Ant setup to a p
 
 ## Notes
 
+- This repository is focused on cleanup, portability, and easier local execution.
 - The project uses OpenJFX `24.0.1`.
 - Audio files and FXML views are loaded from the classpath, so the app no longer depends on IDE-specific working directories.
